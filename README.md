@@ -3,8 +3,6 @@ infinite scrolling code-like things on webpage.
 
 ![](demo.gif)
 
-# Demo
-[my personal website](www.alex-xiao.com)
 
 # Usage
 0. Include `codeScroll.js` in your HTML file `<script src="codeScroll.js"></script>`
