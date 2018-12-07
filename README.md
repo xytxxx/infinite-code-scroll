@@ -1,7 +1,7 @@
 # infinite-code-scroll
 infinite scrolling code-like things on webpage.
 
-[](demo.gif)
+![](demo.gif)
 
 # Demo
 
