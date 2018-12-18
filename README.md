@@ -1,5 +1,6 @@
 # infinite-code-scroll
-infinite scrolling code-like things on webpage. Written in Pure JS, no libraries required!
+infinite scrolling code-like things on webpage.  
+**Written in pure JS, no libraries required!**
 
 ![](demo.gif)
 
